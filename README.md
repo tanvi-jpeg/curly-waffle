@@ -1,36 +1,36 @@
-📘 Data Structures & Algorithms – Practice Repository
+📘 Data Structures & Algorithms-C++
 
-This repository contains my solutions to various Data Structures and Algorithms (DSA) problems. The goal of this project is to improve coding skills, strengthen problem-solving abilities, and build a strong foundation for technical interviews.
+A simple and structured collection of C++ programs covering core Data Structures and Algorithms (DSA) topics.
 
-🚀 What’s Inside
+🚀 Overview
 
-Implementations of common data structures
-(Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, Hashing, etc.)
+This repository contains my solutions to various DSA problems. The main goal is to:
 
-Solutions to frequently asked coding interview problems
+Strengthen problem-solving and logical thinking
 
-Clean, readable, and beginner-friendly C++ code
-
-Step-by-step logic and comments wherever necessary
-
-🎯 Purpose of This Repository
-
-Build strong DSA fundamentals
+Build core DSA fundamentals
 
 Prepare for coding rounds in product-based companies
 
-Track progress over time
+Practice clean, optimized C++ implementations
 
-Practice writing efficient, optimized solutions
+🎯 Purpose of This Repository
 
+Build strong foundational skills in DSA
+
+Maintain a structured record of practice problems
+
+Improve coding efficiency and confidence
+
+Prepare for technical interviews
 🛠 Tech Stack
 
 Language: C++
 
-Tools: VS Code 
+Editor/Compiler: VS Code, MinGW / GCC
 
-Platform Sources: LeetCode, Striver’s SDE Sheet, etc.
+Sources of Problems: LeetCode, Striver’s SDE Sheet, CodeStudio etc.
 
-📂 Repository Structure
+📂 How the Repository Is Organized
 
-All topic-wise practice code is organized as separate .cpp files
+This repository contains topic-wise practice code, with each concept placed in its own C++ file
